@@ -7,7 +7,7 @@
 
 # Site settings
 title: Bugtype
-brief-intro:  Dev Engineer
+brief-intro:  Fullstack Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bugtype.github.io" # the base hostname & protocol for your site
 
