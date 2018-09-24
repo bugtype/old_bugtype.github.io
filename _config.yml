@@ -51,6 +51,7 @@ kramdown:
 # url
 category_dir: category/
 tag_dir: tag/
+quick_dir: quick/
 
 # excerpt
 excerpt_separator: "\n\n\n\n"
