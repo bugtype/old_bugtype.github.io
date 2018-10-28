@@ -49,9 +49,9 @@ kramdown:
 # port: 1234
 
 # url
-category_dir: category/
-tag_dir: tag/
-quick_dir: quick/
+category_dir: tech/category/
+tag_dir: tech/tag/
+quick_dir: tech/quick/
 
 # excerpt
 excerpt_separator: "\n\n\n\n"
