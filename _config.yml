@@ -9,7 +9,7 @@
 title: Bugtype
 brief-intro:  Fullstack Engineer
 baseurl: "/tech" # the subpath of your site, e.g. /blog
-url: "https://bugtype.github.io" # the base hostname & protocol for your site
+url: "https://bugtype.github.io/tech" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
