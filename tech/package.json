@@ -1,0 +1,19 @@
+{
+  "name": "bugtype",
+  "version": "1.0.0",
+  "description": "bugtype",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugtype/bugtype.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugtype/bugtype.github.io/issues"
+  },
+  "homepage": "https://github.com/bugtype/bugtype.github.io#readme"
+}
